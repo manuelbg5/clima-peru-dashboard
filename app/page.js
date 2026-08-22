@@ -13,7 +13,6 @@ const CIUDADES = [
   "Cusco",
   "Trujillo",
   "Piura",
-  "Chiclayo",
   "Puno",
   "Tacna",
   "Huancayo",
