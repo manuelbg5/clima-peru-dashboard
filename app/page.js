@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 // 👉 EDITA AQUÍ: nombre del dashboard que se muestra arriba
-const DASHBOARD_TITLE = "Visualiza clima en el Perú ";
+const DASHBOARD_TITLE = "Visualiza clima en el Perú";
 
 // 👉 EDITA AQUÍ: agrega, quita o cambia ciudades de esta lista.
 // Deben ser nombres que OpenWeatherMap reconozca dentro de Perú.
